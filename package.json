@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/jasmine": "^5.1.8",
+    "@types/node": "^22.15.18",
+    "jasmine": "^5.7.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "name": "typescipt",
+  "version": "1.0.0",
+  "description": "- Filter even numbers from an array\r - Fetch data from an API using fetch()\r - Convert JS function to TypeScript and understand\r - Define interfaces for `User` and `Product`",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
